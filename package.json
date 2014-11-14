@@ -1,0 +1,13 @@
+{
+    "name": "aurooba.happylike",
+    "title": "Happy-Like",
+    "description": "A bright and happy theme for people who enjoy code.",
+    "homepage": "https://github.com/yourname/my-shiny-theme",
+    "version": "0.1",
+    "author": "Aurooba Ahmed <aurooba@auroobaahmed.com> (http://auroobaahmed.com)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less"
+    },
+    "keywords": ["theme"]
+}
