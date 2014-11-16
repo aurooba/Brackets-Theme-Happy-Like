@@ -1,4 +1,4 @@
-Brackets-Theme-Happy-Like
+Brackets Theme: Happy-Like
 =========================
 
 A Brackets editor theme for happy people who enjoy coding.
